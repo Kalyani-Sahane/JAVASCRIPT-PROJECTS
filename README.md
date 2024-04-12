@@ -38,4 +38,4 @@ To run any of the projects locally, simply clone this repository to your local m
 
 ## Contributing
 If you have any suggestions, improvements, or new project ideas, feel free to contribute to this repository by submitting a pull request. Your contributions are greatly appreciated!
-
+</div>
